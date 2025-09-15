@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/yogesh0720.png" alt="Yogesh Nayi" width="150" />
-</p>
+</p> -->
 
 # 👋 Hi, I'm Yogesh Nayi
 
@@ -121,4 +121,3 @@
 ---
 
 ⭐ **Fun Fact:** I love mentoring developers and simplifying complex problems into elegant solutions.
-# yogesh0720
