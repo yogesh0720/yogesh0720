@@ -1,27 +1,47 @@
-<!-- Banner -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/yogesh0720.png" alt="Yogesh Nayi" width="120" style="border-radius:50%;" />
+  <a href="https://www.linkedin.com/in/yogeshnayi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yogesh0720" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:yogeshnayi@ymail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/yogeshnayi" target="_blank">Yogesh Nayi</a></h1>
-
-<h3 align="center">Principal Consultant | PHP, Node.js, Python & AWS Cloud Solutions</h3>
-<p align="center"><em>Building Scalable Cloud-Native Platforms with PHP, Node.js, Python & AWS</em></p>
-
 <p align="center">
-  <a href="https://github.com/yogesh0720">
-    <img src="https://komarev.com/ghpvc/?username=yogesh0720&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/yogesh0720" target="_blank">
+    <img 
+      src="https://camo.githubusercontent.com/6c72a8cf90d68b969b63d34da395b7248c442d8b54218cebdff63dc67c47b8b9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f6765736830373230266c6162656c3d50726f66696c65253230566965777326636f6c6f723d306537356236267374796c653d666c6174"
+      alt="Profile views"
+      data-canonical-src="https://komarev.com/ghpvc/?username=yogesh0720&label=Profile%20Views&color=0e75b6&style=flat"
+    />
   </a>
 </p>
 
 ---
 
+# 👋 Hi, I'm Yogesh Nayi
+
+**Principal Consultant | PHP, Node.js, Python & AWS Cloud Solutions**  
+_Building Scalable Cloud-Native Platforms with PHP, Node.js, Python & AWS_
+
+---
+
+### 💼 Current Role
+
+**Principal Consultant at Genpact** — leading backend and cloud architecture initiatives, delivering scalable API-driven and AWS-based enterprise solutions.
+
+---
+
 ### 💡 About Me
 
-- 💻 **13+ years of experience** in backend engineering and cloud architecture, driving digital transformation initiatives at **Genpact**.
-- ☁️ Specialized in **PHP, Node.js, Python, and AWS**, building secure, scalable, and high-performance platforms.
-- 🔒 Passionate about **cloud-native solutions**, **API security (OWASP)**, and **modernizing legacy systems**.
-- 👨‍🏫 Love mentoring developers, fostering team growth, and promoting engineering excellence.
+- 💻 **13+ years of experience** in backend and cloud development, driving digital transformation initiatives.
+- ☁️ Skilled in **PHP, Node.js, Python, and AWS**, with hands-on experience in **microservices, REST APIs, and CI/CD pipelines**.
+- 🔒 Passionate about **security (OWASP)** and **cloud-native architecture**, transforming monolithic systems into scalable, modern platforms.
+- 👨‍🏫 Love mentoring developers and fostering **engineering excellence**.
 - 🌱 Interests: **Open Source**, **Cloud & Security**, and **Artificial Intelligence**.
 
 ---
@@ -29,13 +49,13 @@
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-`PHP 8.x` • `Node.js` • `Python` • `Symfony` • `Laravel` • `CodeIgniter` • `Express.js` • `React.js` • `JavaScript/TypeScript` • `HTML/CSS`
+`PHP 8.x` • `Node.js` • `Python` • `Laravel` • `Symfony` • `CodeIgniter` • `Express.js` • `React.js` • `JavaScript/TypeScript` • `HTML/CSS`
 
 **Databases & Tools:**  
 `MySQL` • `MariaDB` • `PostgreSQL` • `NoSQL` • `Redis`
 
 **Cloud & DevOps:**  
-`AWS (EC2, S3, ECS, Lambda, RDS, DynamoDB)` • `Docker` • `GitHub Actions` • `CI/CD` • `Microservices` • `REST API` • `SOA`
+`AWS (EC2, S3, ECS, Lambda, RDS, DynamoDB)` • `Docker` • `GitHub Actions` • `CI/CD` • `Microservices` • `REST API`
 
 **Other Tools:**  
 `Jira` • `Agile` • `Splunk` • `Security Basics (OWASP)`
@@ -44,17 +64,17 @@
 
 ### 🏆 Achievements
 
-- 🚀 **Improved API response time by 30%** across multiple projects.
-- 🛡️ **Reduced vulnerabilities by 40%** through proactive security reviews.
-- 🏆 Recognized in **Employee Spotlight** for creating a **zero-downtime deployment playbook** adopted company-wide.
-- 🤝 Mentored **10+ engineers**, boosting delivery speed and code quality.
+- 🚀 **Improved API performance by 30%** across enterprise platforms.
+- 🛡️ **Reduced vulnerabilities by 40%** through proactive security audits.
+- 🏆 Recognized for building a **zero-downtime deployment playbook** adopted company-wide.
+- 🤝 Mentored **10+ engineers**, improving team delivery efficiency and collaboration.
 
 ---
 
 ### 🌍 Community & Volunteering
 
 - ☁️ **AWS Ahmedabad User Group** — Active volunteer and participant in AWS Community Day events.
-- 🧩 **Laravel Ahmedabad Community** — Regular attendee exploring Laravel best practices, performance tuning, and cloud integrations.
+- 🧩 **Laravel Ahmedabad Community** — Regular attendee exploring Laravel, Node.js, and cloud integration best practices.
 
 ---
 
@@ -68,66 +88,6 @@
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=yogesh0720&theme=onedark&margin-w=10&margin-h=10">
     <img src="https://github-profile-trophy.vercel.app/?username=yogesh0720&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 💼 Professional Experience
-
-- **Principal Consultant — Genpact** _(Oct 2023 – Present)_  
-  Architected and maintained **PHP (Symfony, Zend)** and **AWS-based APIs**.  
-  Led a 3-member engineering team, improving release quality by **20%**.
-
-- **Senior Engineer — Entrata India, Pune** _(May 2022 – Sep 2023)_  
-  Led **PHP & ReactJS** app development; integrated **Node.js + Kafka** for faster onboarding.
-
-- **Senior Analyst — ValueLabs, Hyderabad** _(Feb 2020 – Apr 2022)_  
-  Built **PHP, ReactJS, and Python** apps; managed 5 engineers under Agile delivery.
-
-- **Senior Software Engineer — I-Serve Online Mall (Malaysia)** _(Aug 2019 – Sep 2019)_  
-  Developed **Laravel-based** business applications.
-
-- **Senior Software Engineer — Analytix Business Solutions** _(Apr 2016 – Jul 2019)_  
-  Implemented **CI/CD automation**; mentored developers in PHP & Python.
-
-- **Software Engineer — Milestone Internet Marketing** _(May 2013 – Mar 2016)_  
-  Built and optimized client websites; led small development teams.
-
-- **PHP Developer — Time IT Solutions** _(Apr 2012 – Apr 2013)_  
-  Created **RESTful APIs** and backend services for mobile apps.
-
----
-
-### 🎓 Education
-
-- 🎓 **MCA** — Sikkim Manipal University (2015)
-- 🎓 **BCA** — Hemchandracharya North Gujarat University (2012)
-
----
-
-### 📜 Certifications
-
-- **AWS Cloud Practitioner**
-- **GCP Essential Training**
-- **Apache Kafka**
-- **Blockchain Fundamentals**
-- **PHP / Node.js / React.js / Python**
-- **Agentic AI, Generative AI, Data Science**
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yogeshnayi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yogesh0720" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black" alt="GitHub" />
-  </a>
-  <a href="mailto:yogeshnayi@ymail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
