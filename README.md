@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/yogesh0720.png" alt="Yogesh Nayi" width="120" style="border-radius:50%;" />
-</p>
+</p>-->
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/yogeshnayi" target="_blank">Yogesh Nayi</a></h1>
 
