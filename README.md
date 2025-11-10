@@ -1,3 +1,8 @@
+# 👋 Hi, I'm Yogesh Nayi
+
+**Principal Consultant | PHP, Node.js, Python & AWS Cloud Solutions**  
+_Building Scalable Cloud-Native Platforms with PHP, Node.js, Python & AWS_
+
 <!-- Profile Header -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yogeshnayi" target="_blank">
@@ -19,19 +24,6 @@
     />
   </a>
 </p>
-
----
-
-# 👋 Hi, I'm Yogesh Nayi
-
-**Principal Consultant | PHP, Node.js, Python & AWS Cloud Solutions**  
-_Building Scalable Cloud-Native Platforms with PHP, Node.js, Python & AWS_
-
----
-
-### 💼 Current Role
-
-**Principal Consultant at Genpact** — leading backend and cloud architecture initiatives, delivering scalable API-driven and AWS-based enterprise solutions.
 
 ---
 
