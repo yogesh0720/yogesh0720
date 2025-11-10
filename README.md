@@ -21,9 +21,8 @@ _Building Scalable Cloud-Native Platforms with PHP, Node.js, Python & AWS_
 <p align="center">
   <a href="https://github.com/yogesh0720" target="_blank">
     <img 
-      src="https://camo.githubusercontent.com/6c72a8cf90d68b969b63d34da395b7248c442d8b54218cebdff63dc67c47b8b9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f6765736830373230266c6162656c3d50726f66696c65253230566965777326636f6c6f723d306537356236267374796c653d666c6174"
-      alt="Profile views"
-      data-canonical-src="https://komarev.com/ghpvc/?username=yogesh0720&label=Profile%20Views&color=0e75b6&style=flat"
+      src="https://komarev.com/ghpvc/?username=yogesh0720&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="yogesh0720 profile views"
     />
   </a>
 </p>
